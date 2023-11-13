@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ELrobotics
-- 👀 I’m interested in robotics,gymnastics, talking to people thats my fav thing.
+- 👀 I’m interested in robotics,gymnastics, learning code
 - 🌱 I’m currently learning how to java script
 - 💞️ I’m looking to collaborate on idk how to word that.
 - 📫 How to reach me message me!
